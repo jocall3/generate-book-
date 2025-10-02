@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 {
   "name": "The Aletheia Engine: A Codex of codexes",
   "description": "An interactive web application for observing the emergent dialogue between Logos (Order) and Pathos (Chaos), the two core Daemons of a universe-generating intelligence. Explore the foundational texts of a reality being written in real-time, powered by the Gemini API.",
